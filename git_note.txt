@@ -1,0 +1,10 @@
+sudo apt-get install git                             #инсталляция
+git config --global user.name "My Name"              #имя пользователя
+git config --global user.email myEmail@example.com   #e-mail
+
+git init                                             #cоздать репозиторий в текущей папке
+git status                                           #статус текущего репозитория 
+
+git clone https://github.com/vvdaminov/scripts.git   #клонировать рипозиторий в папку
+git pull  #скачать последние изменения
+git 
